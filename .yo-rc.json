@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "forvis-list-viewer",
+    "libraryId": "604faa86-db07-4d50-939f-f5fa78936342",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "forvisListViewer",
+    "solutionShortDescription": "forvisListViewer description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
