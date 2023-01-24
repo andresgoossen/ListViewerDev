@@ -18,7 +18,7 @@
   "preconfiguredEntries": [{
     "groupId": "5c03119e-3074-46fd-976b-c60198311f70", // Advanced
     "group": { "default": "Advanced" },
-    "title": { "default": "List Viewer Dev." },
+    "title": { "default": "FORVIS CS List Viewer" },
     "description": { "default": "List Viewer Dev. has HTML editor and function editor to change logic" },
     "officeFabricIconFontName": "PageListFilter",
     "properties": {
